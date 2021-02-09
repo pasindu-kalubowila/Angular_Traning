@@ -15,3 +15,4 @@ export class AppComponent {
   public name = "pasindu";
   public myId = "testId";
 }
+
